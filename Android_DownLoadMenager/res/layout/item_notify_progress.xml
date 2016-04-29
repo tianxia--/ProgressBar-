@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent" 
+    android:background="@android:color/white" 
+    android:orientation="vertical"  
+    android:padding="5dp"> 
+ 
+    <ImageView  
+        android:id="@+id/content_view_image" 
+        android:layout_width="25dp" 
+        android:layout_height="25dp" 
+        android:src="@drawable/ic_launcher" 
+         android:layout_marginLeft="20dp"
+        />
+    <ProgressBar  
+        android:id="@+id/pb_notify_progress" 
+        android:layout_width="fill_parent" 
+        android:layout_height="5dp" 
+        style="@android:style/Widget.ProgressBar.Horizontal" 
+        android:max="100" 
+        android:layout_below="@id/content_view_image" 
+        android:layout_marginTop="4dp" 
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:progressDrawable="@drawable/progress_style"
+        />
+
+     <TextView
+         android:id="@+id/tv_notify_speed"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/pb_notify_progress"
+         android:layout_marginLeft="18dp"
+         android:layout_toRightOf="@+id/content_view_image"
+         android:text="0M/S"
+         android:textColor="#000000" />
+
+     <TextView
+         android:id="@+id/tv_notify_press"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignBaseline="@+id/tv_notify_speed"
+         android:layout_alignBottom="@+id/tv_notify_speed"
+         android:layout_marginRight="51dp"
+         android:layout_toLeftOf="@+id/tv_notify_size"
+         android:text="0%"
+         android:textColor="#000000" />
+
+     <TextView
+         android:id="@+id/tv_notify_size"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignRight="@+id/pb_notify_progress"
+         android:layout_below="@+id/pb_notify_progress"
+         android:text="0M"
+         android:textColor="#000000" />
+
+     <TextView
+         android:id="@+id/tv_notify_title"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_above="@+id/pb_notify_progress"
+         android:layout_alignLeft="@+id/tv_notify_speed"
+         android:layout_alignParentRight="true"
+         android:textColor="#000000" />
+
+</RelativeLayout> 

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="none">#00000000</color>
+    <color name="t_040404">#040404</color>
+    <color name="t_ff8400">#ff8400</color>
+    <color name="t_ac5900">#ac5900</color>
+    <color name="t_6aa615">#6aa615</color>
+    <!-- 绿色 -->
+    <color name="t_85c826">#85c826</color>
+    <color name="t_7c7c7c">#7c7c7c</color>
+    <color name="t_f9f9f9">#f9f9f9</color>
+    <color name="l_ededed">#ededed</color>
+    <!-- 深灰 -->
+    <color name="t_5e5e5e">#5e5e5e</color>
+    <color name="t_929292">#929292</color>
+    <color name="t_ededed">#ededed</color>
+    <color name="t_dddddd">#dddddd</color>
+    <color name="titlebar_backgroud">#2b9ad3</color>
+    <color name="wifi_around_line">#bababa</color>
+    <color name="progressbar_color">#949494</color>
+    <color name="progress_color">#85c826</color>
+    <!-- 透明 -->
+    <color name="translation">#a0000000</color>
+    <!-- 米黄 -->
+    <color name="cream_colored">#fefda7</color>
+    <color name="blue">#00a8ff</color>
+    
+    <color name="t_cccccc">#cccccc</color>
+    <color name="t_fd3535">#fd3535</color>
+    <!-- 浅黑色 -->
+    <color name="t_8d3811">#8d3811</color>
+    <color name="t_575757">#575757</color>
+    <color name="t_919191">#919191</color>
+    
+    <color name="t_b3ff47">#b3ff47</color>
+    <color name="t_8bd128">#8bd128</color>
+    <color name="t_f5f5f5">#f5f5f5</color>
+    <color name="t_28a8f8">#28a8f8</color>
+</resources>

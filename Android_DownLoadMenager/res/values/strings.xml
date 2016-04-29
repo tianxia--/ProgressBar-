@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_DownloadMenager</string>
+    <string name="accelerate">加速</string>
+    <string name="decelerate">减速</string>
+    <string name="bounce">反弹</string>
+    <string name="spring">弹簧</string>
+    <string name="linear">线性</string>
+    <string name="overshoot">超越目标</string>
+    <string name="cycle">周期</string>
+    <string name="cubichermite">三次Hermite插值函数</string>
+    <string name="read_more">read more</string>
+    <string name="read_less">read less</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras feugiat, nunc eget volutpat viverra, lacus ligula venenatis nulla, in accumsan eros eros nec ipsum. Fusce eget massa id lorem blandit lobortis. Donec lacus ligula, commodo quis eleifend ac, rhoncus sed mi. Curabitur luctus justo vel consequat fermentum. Donec facilisis elit in sem suscipit pharetra. Curabitur porta et dolor eget pretium. Mauris quam augue, interdum nec tempor vitae, consectetur at erat.</string>
+    <string name="lorem_ipsum2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras feugiat, nunc eget volutpat viverra, lacus ligula venenatis nulla, in accumsan eros eros nec ipsum. Fusce eget massa id lorem blandit lobortis. Donec lacus ligula, commodo quis eleifend ac, rhoncus sed mi. </string>
+    <string name="lorem_ipsum3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.Cras feugiat, nunc eget volutpat viverra, lacus ligula venenatis nulla, in accumsan eros eros nec ipsum. Fusce eget massa id lorem blandit lobortis.</string>
+    <string name="show_all_content">Show all content</string>
+    <string name="stop">stop</string>
+       <string name="resume">resume</string>
+       <string name="retry">retry</string>
+</resources>

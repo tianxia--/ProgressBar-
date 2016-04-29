@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ReadMoreTextView">
+        <attr name = "trimExpandedText" format="string"></attr>
+        <attr name ="trimCollapsedText" format="string"></attr>
+        <attr name = "trimlength" format = "integer"></attr>
+        <attr name = "showTrimExpandedText" format ="boolean"></attr>
+        <attr name = "colorClickableText" format = "color"></attr>
+    </declare-styleable>
+</resources>

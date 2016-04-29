@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+<dimen name="text_size_1">21sp</dimen>
+    <!-- 按钮、路径、好友名字、评论、menu字体、输入框的字体、历史记录里的文件名、文件大小 -->
+    <dimen name="text_size_2">19sp</dimen>
+    <!-- 文件名、评论的来源、照片的来源、评论 -->
+    <dimen name="text_size_3">17sp</dimen>
+    <!-- 详细信息 -->
+    <dimen name="text_size_4">15sp</dimen>
+    <dimen name="text_size_5">14sp</dimen>
+    <dimen name="text_size_6">12sp</dimen>
+    <dimen name="text_size_7">10sp</dimen>
+    <!--  -->
+    <dimen name="banner_h">184dip</dimen>
+    <dimen name="movie_detail_h">160dip</dimen>
+    <dimen name="movie_detail_w">130dip</dimen>
+    
+</resources>

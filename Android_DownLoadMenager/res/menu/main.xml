@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/accelerate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/accelerate"/>
+<item
+        android:id="@+id/decelerate"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/decelerate"/>
+<item
+        android:id="@+id/bounce"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/bounce"/>
+<item
+        android:id="@+id/spring"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/spring"/>
+<item
+        android:id="@+id/linear"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/linear"/>
+<item
+        android:id="@+id/overshoot"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/overshoot"/>
+<item
+        android:id="@+id/cycle"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/cycle"/>
+<item
+        android:id="@+id/cubichermite"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/cubichermite"/>
+
+</menu>
